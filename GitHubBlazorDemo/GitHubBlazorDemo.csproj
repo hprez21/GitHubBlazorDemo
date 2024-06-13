@@ -9,7 +9,7 @@
 
   <ItemGroup>
 	  <PackageReference Include="Azure.Storage.Blobs" Version="12.13.0" />
-	  <PackageReference Include="Microsoft.Data.OData" Version="5.0.1" />
+	  <PackageReference Include="Microsoft.Data.OData" Version="5.8.4" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.0" PrivateAssets="all" />
   </ItemGroup>
