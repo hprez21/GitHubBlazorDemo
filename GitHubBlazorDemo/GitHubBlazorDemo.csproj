@@ -11,7 +11,7 @@
 	  <PackageReference Include="Azure.Storage.Blobs" Version="12.13.0" />
 	  <PackageReference Include="Microsoft.Data.OData" Version="5.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.0" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.6" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
